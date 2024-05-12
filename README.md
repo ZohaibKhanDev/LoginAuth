@@ -11,7 +11,7 @@
 - **Password Policies**
 - **Account Lockout**
 - **Password Salting**
-- 
+- **Logging and Monitoring**
 - 
 - 
 
