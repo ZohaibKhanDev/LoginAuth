@@ -9,6 +9,8 @@
 - **Brute Force Protection**
 - **Session Management**
 - **Password Policies**
+- **Account Lockout**
+- 
 - 
 - 
 - 
