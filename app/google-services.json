@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "731200392999",
+    "project_id": "login-sinup-c2908",
+    "storage_bucket": "login-sinup-c2908.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731200392999:android:4f055ab6fdda073de8e302",
+        "android_client_info": {
+          "package_name": "com.example.loginsignup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACXrRQCAz4_e2t7U5X2MjRL1i-YiWfurw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
