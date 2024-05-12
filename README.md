@@ -13,7 +13,7 @@
 - **Password Salting**
 - **Logging and Monitoring**
 - **Cross-Site Request Forgery (CSRF) Protection**
-- 
+- **User Lockout and Recovery**
 
 ## 🤝 Connect with Me
 Let's chat about potential projects, job opportunities, or any other collaboration! Feel free to connect with me through the following channels:
