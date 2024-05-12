@@ -10,7 +10,7 @@
 - **Session Management**
 - **Password Policies**
 - **Account Lockout**
-- 
+- **Password Salting**
 - 
 - 
 - 
