@@ -134,11 +134,6 @@ fun SecondScreen(navController: NavController) {
                                     ResultState.Loading -> {
                                         isDialog = true
 
-
-
-
-
-                                        
                                     }
 
                                     is ResultState.Success -> {
