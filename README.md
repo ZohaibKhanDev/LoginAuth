@@ -12,7 +12,7 @@
 - **Account Lockout**
 - **Password Salting**
 - **Logging and Monitoring**
-- 
+- **Cross-Site Request Forgery (CSRF) Protection**
 - 
 
 ## 🤝 Connect with Me
