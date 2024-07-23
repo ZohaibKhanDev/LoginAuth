@@ -5,7 +5,7 @@
 - **Secure Encryption**
 - **Two-Factor Authentication (2FA)**
 - **Brute Force Protection**
-- **Session Management**
+- **Session Management** 
 - **Password Policies**
 - **Account Lockout**
 - **Password Salting**
