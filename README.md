@@ -1,8 +1,5 @@
-
 # Login Auth
 ## Overview
-
-
 
 ## 🚀 Key Features
 - **Secure Encryption**
