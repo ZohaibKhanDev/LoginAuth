@@ -7,7 +7,7 @@
 - **Brute Force Protection**
 - **Session Management** 
 - **Password Policies**
-- **Account Lockout**
+- **Account Lockout** 
 - **Password Salting**
 - **Logging and Monitoring**
 - **Cross-Site Request Forgery (CSRF) Protection**
